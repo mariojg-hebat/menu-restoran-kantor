@@ -1,9 +1,7 @@
-# NOER-09
-MENU KANTIN
 === PENGUMPULAN PROGRESS 1 — UAS PEMROGRAMAN DASAR ===
 Kelas / Kelompok   : T1[B] / Kelompok-[9]
 Judul / Tema       : [Airil food]
-Link Repo Public   : https://github.com/noersyifas-dev/NOER-09
+Link Repo Public   : https://github.com/noersyifas-dev/menu-restoran-kantor
 
 Daftar Anggota & Akun GitHub:
 1. [Noer Syifa Sugiyanto] - [263140700111035] (@noersyifas-dev)
