@@ -6,4 +6,4 @@ Link Repo Public   : https://github.com/nosyfs/menu-restoran-kantor
 Daftar Anggota & Akun GitHub:
 1. [Noer Syifa Sugiyanto] - [263140700111035] (@nosyf)
 2. [Airilsyah Ramadhan] - [263140700111051] (@rielcount)
-3. [Mario Jhony Gunawan] - [263140700111047] (@JHONY THE KING)
+3. [Mario Jhony Gunawan] - [263140700111047] (@mariojg-hebat)
