@@ -24,3 +24,19 @@ Proses pengembangan di lakukan secara berkala sebagai berikut :
 6. Evaluasi seluruh data koding
 7. Finalisasi program koding
 8. penyusunan Laporan.docx dan penyelesaian Readme.md
+
+## Progress Pengerjaan
+
+### Progress 1
+- [ ] Membuat Repository Hub
+- [ ] Menyiapkan Struktur Awal
+- [ ] Konfigurasi TypeScript
+- [ ] Membuat Program Hello Console
+- [ ] Penyusunan Proposal Awal
+- [ ] Analisis masalah
+- [ ] Menyusun Pembagian tugas setiap anggota
+
+---
+
+**Mata Kuliah:** Pemrogaman Dasar
+** Tahun Akademik:** 2026/2027
