@@ -16,11 +16,11 @@ Daftar Anggota & Akun GitHub:
 
 ## Rencana Pengembangan Project
 Proses pengembangan di lakukan secara berkala sebagai berikut :
-1.Membuat Resipitory dan mempersiapkan Typescript.
-2.Penyusunan Proposal dan Analisis Msalah
-3.Pembuatan Flowchart dan Pembuatan kerangka data
-4.Pengimplentasian fitur dan input dasar
-5.Penyusunan Seluruh struktur koding
-6.Evaluasi seluruh data koding
-7.Finalisasi program koding
-8.penyusunan Laporan.docx dan penyelesaian Readme.md
+1. Membuat Resipitory dan mempersiapkan Typescript.
+2. Penyusunan Proposal dan Analisis Msalah
+3. Pembuatan Flowchart dan Pembuatan kerangka data
+4. Pengimplentasian fitur dan input dasar
+5. Penyusunan Seluruh struktur koding
+6. Evaluasi seluruh data koding
+7. Finalisasi program koding
+8. penyusunan Laporan.docx dan penyelesaian Readme.md
