@@ -7,3 +7,9 @@ Daftar Anggota & Akun GitHub:
 1. [Noer Syifa Sugiyanto] - [263140700111035] (@nosyfs)
 2. [Airilsyah Ramadhan] - [263140700111051] (@rielcount)
 3. [Mario Jhony Gunawan] - [263140700111047] (@mariojg-hebat)
+
+| No. | Nama Anggota | Jobdesc |
+|---|---|---|
+| 1 | Noer Syifa Sugiyanto | Bertanggung jawab dalam pengelolaan repository ( yang memegang akun utama github), membantu pengembangan koding program |
+| 2 | Airilsyah Ramadhan | Menyusun Readme.md, dan membantu mengembangkan kode program, serta dokumentator project
+| 3 | Mario Jhony Gunawan | Menyusun Proposal , analisis permasalahan, dan merancang fitur aplikasi / web|
